@@ -1,0 +1,24 @@
+{
+  "name": "oschina",
+  "version": "0.1.0",
+  "description": "OSChina api for Node.js",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nswbmw/node-oschina.git"
+  },
+  "keywords": [
+    "oschina",
+    "node-oschina",
+    "osc",
+    "开源中国"
+  ],
+  "author": "nswbmw",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nswbmw/node-oschina/issues"
+  },
+  "dependencies": {
+    "needle": "*"
+  }
+}
